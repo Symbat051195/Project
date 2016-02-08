@@ -1,0 +1,23 @@
+Assignment screen1
+South company
+team member: Group B04
+Zhiyenbay Symbat 
+Erbol Arynbek 
+Ziyat Bekbol 
+Slamkul Beknur
+
+Team number #5 (team# % 5 + 1))
+NST Team
+Locally shared calendar
+
+1st Screenshot
+Screen #7
+f. Write what event makes the screen appear
+In this screenshot7, the main problem is that there is not written save and cancel
+2. Screen #5
+e. Describe purpose of the screen.
+In this screen5 main problem we don’t have description, we don’t know what is a screen because here there is no description.
+
+Benefits
+1.Screenshot is needed in order to show the customer what this project for example if we have a mobile application, we need to explain and describe our project for this and need a screenshot
+2. Screenshots have long been a staple for technicians and is the best way to precisely see and share what is happening on a specific computer screen.
